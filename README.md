@@ -5,13 +5,24 @@
 👯 Me interesa mucho aprender cosas nuevas trabajando y planeo iniciar proyectos propios proximamente.<br>
 ⚡Si gustas puedes seguirme también en linkedin  josegordillopanighini/
 
-<br>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<table>
+  <tr>
+    <th><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></th>
+    <th><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></th>
+    <th><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></th>
+    <th><img src="https://img.icons8.com/officel/16/000000/php-logo.png"/></th>
+    <th><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></th>
+    <th><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></th>
+    <th><img src="https://img.icons8.com/ios-filled/50/000000/css.png"/></th>
+  </tr>
+</table>
+
+
+
+
+
+
+
 <!--
 **josegordillo791/josegordillo791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
