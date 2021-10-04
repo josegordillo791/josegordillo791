@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-🔭 Cuento un poco sobre mí ,soy Argentino ,de la ciudad de Salta ,actualmente trabajo para una empresa de software como analista programador.Me ha tocado manejar tecnologias como oracle forms y reports 
+🔭 Cuento un poco sobre mí ,soy Argentino ,de la ciudad de Salta ,actualmente trabajo para una empresa de software como analista programador,manejando tecnologías orientadas al desarrollo web .
 🌱 Actualmente me encuentro aprendiendo tecnologías como angular formandome con buenas prácticas mediante udemy .
 👯 Me interesa mucho aprender cosas nuevas trabajando y planeo iniciar proyectos propios proximamente.
 ⚡Si gustas puedes seguirme también en linkedin  josegordillopanighini/
