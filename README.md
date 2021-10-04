@@ -10,7 +10,7 @@
     <th><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></th>
     <th><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></th>
     <th><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></th>
-    <th><img src="https://img.icons8.com/officel/16/000000/php-logo.png"/></th>
+    <th><img src="https://img.icons8.com/ios/50/000000/php.png"/></th>
     <th><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></th>
     <th><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></th>
     <th><img src="https://img.icons8.com/ios-filled/50/000000/css.png"/></th>
