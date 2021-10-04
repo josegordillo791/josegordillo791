@@ -1,7 +1,8 @@
 ### Hola a todos 👋
 🔭 Cuento un poco sobre mí ,soy Argentino ,de la ciudad de Salta ,actualmente trabajo para una empresa de software como analista programador,manejando tecnologías orientadas al desarrollo web .
-🌱 Actualmente me encuentro aprendiendo tecnologías como angular formandome con buenas prácticas mediante udemy .
-👯 Me interesa mucho aprender cosas nuevas trabajando y planeo iniciar proyectos propios proximamente.
+<br>
+🌱 Actualmente me encuentro aprendiendo tecnologías como angular formandome con buenas prácticas mediante udemy .<br>
+👯 Me interesa mucho aprender cosas nuevas trabajando y planeo iniciar proyectos propios proximamente.<br>
 ⚡Si gustas puedes seguirme también en linkedin  josegordillopanighini/
 <!--
 **josegordillo791/josegordillo791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
