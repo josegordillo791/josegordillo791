@@ -1,6 +1,10 @@
- Hola a todos 👋
-🚀 Cuento un poco sobre mí ,soy Argentino ,actualmente trabajo para una empresa de software como analista programador PL/SQL utilizando Forms Oracle,manejo tecnologías orientadas al desarrollo web y utilizo este espacio para mostrar lo que hago .También me encanta python y aplicar ello para automatizar tareas 😄.
-<br>
-💻Me interesa mucho aprender cosas nuevas trabajando y planeo seguir creando proyectos nuevos<br>
-Si gustas puedes seguirme también en linkedin  josegordillopanighini/
+ Hello everyone 👋
+🚀 Hello everyone, thank you for viewing my profile. I work as a pl/sql programmer in an insurance company and I am learning python to improve my skills. If you want you can follow me at https://www.linkedin.com/in/josegordillopanighini/ 
+My english level is A2 and i continue to learn
+
+Hola a todos 👋
+🚀 Hola a todos ,gracias por ver mi perfil .Trabajo como programador pl/sql en una compañia de seguros y estoy aprendiendo python para mejorar mis habilidades.Si quieres puedes seguirme en https://www.linkedin.com/in/josegordillopanighini/
+Mi nivel de inglés es A2 y continuo aprendiendo
+
+
 
