@@ -13,7 +13,7 @@ Mi nivel de inglés es A2 y continuo aprendiendo
 - **Lenguajes de Programación**: Python, PL/SQL.
 - **Frameworks**: Django, Flask, Flet.
 - **Bases de Datos**: Oracle,MySql.
-- **Inglés nivel A2**:
+- **Inglés nivel A2.**
 
 ## Contacto
 
