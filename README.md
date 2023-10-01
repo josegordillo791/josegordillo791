@@ -1,11 +1,5 @@
-🚀 Hola a todos 👋🚀
- Gracias por ver mi perfil .Trabajo como programador pl/sql en una compañia de seguros y estoy aprendiendo python para mejorar mis habilidades.Si quieres puedes seguirme en https://www.linkedin.com/in/josegordillopanighini/
-Mi nivel de inglés es A2 y continuo aprendiendo
+## Hola a todos .Soy José👋🚀
 
-
-## Sobre Mí
-
-¡Hola! Soy José
 Gracias por ver mi perfil .Soy un desarrollador con experiencia en Python y PL/SQL. Mi pasión por la programación me ha llevado a explorar diversas tecnologías y a desarrollar soluciones creativas y eficientes.Trabajo como programador pl/sql en una compañia de seguros y estoy aprendiendo python para mejorar mis habilidades.Si quieres puedes seguirme en https://www.linkedin.com/in/josegordillopanighini/
 Mi nivel de inglés es A2 y continuo aprendiendo
 
