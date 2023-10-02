@@ -8,21 +8,19 @@ Mi nivel de inglés es A2.
 - Desarrollo de aplicaciones web en Python utilizando frameworks como Django , Flask y actualmente aprendiendo Flet para desarrollar apps  multiplataforma.
 - Diseño y optimización de bases de datos utilizando PL/SQL en entornos Oracle.Tabién utilicé Oracle Forms y Reports desde su versión 6i hasta su version 11i
 
-## Habilidades
+### Habilidades
 
 - **Lenguajes de Programación**: Python, PL/SQL.
 - **Frameworks**: Django, Flask, Flet.
 - **Bases de Datos**: Oracle,MySql.
 - **Inglés nivel A2.**
 
-## Contacto
+#### Contacto
 
 ¡Estoy abierto a colaboraciones y discusiones interesantes! Puedes contactarme a través de:
 
 - Correo Electrónico: josegordillo791@gmail.com
 - LinkedIn: https://www.linkedin.com/in/josegordillopanighini/ 
 
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos y contribuciones.
 
 
